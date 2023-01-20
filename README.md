@@ -1,22 +1,24 @@
-### Hi there 👋, my name is Disha Baghel
-#### I am a student pursuing BTech in Computer Science and Engineering
-![I am a student pursuing BTech in Computer Science and Engineering](https://cdn2.careeraddict.com/uploads/article/58447/medium-illustration-woman-desk-computers.jpg)
-
-I am a passionate programmer always ready to learn new technologies and collaborate on various open source projects. <br>
-Addicted to caffeine, Coding and caffeine, the dynamic duo of productivity
-
-Skills: C++ / C / Java / Python / Android
-
-- 🌱 I’m currently learning Android Development 
+# 💫 About Me:
+I am a student pursuing B.Tech in Computer Science and Engineering<br>I’m currently learning Android Development<br>I am a passionate programmer always ready to learn new technologies and collaborate on various open source projects.<br>Addicted to caffeine!!! Coding and caffeine, the dynamic duo of productivity<br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Disha-Baghel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/disha-baghel-624752229/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dishabaghel16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>]([disha_baghel])
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/disha-baghel-624752229) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dishabaghel16) 
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Disha-Baghel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Disha-Baghel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-Baghel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-Baghel)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Disha-Baghel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-Baghel&show_icons=true)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Disha-Baghel)  
+---
+[![](https://visitcount.itsvg.in/api?id=Disha-Baghel&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
