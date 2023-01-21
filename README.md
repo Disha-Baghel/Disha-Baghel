@@ -15,7 +15,7 @@ I am a student pursuing B.Tech in Computer Science and Engineering<br>I’m curr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Disha-Baghel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
