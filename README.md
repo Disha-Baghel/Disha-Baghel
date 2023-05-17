@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student pursuing B.Tech in Computer Science and Engineering<br>I’m currently learning Android Development<br>I am a passionate programmer always ready to learn new technologies and collaborate on various open source projects.<br>Addicted to caffeine!!! Coding and caffeine, the dynamic duo of productivity<br>
+I am a student pursuing B.Tech in Computer Science and Engineering, eager to explore the world of programming and collaborate on various open source projects. With a passion for coding and a hunger for knowledge, I am constantly seeking opportunities to learn and grow. I am dedicated to expanding my technical skill set and staying up-to-date with the latest technologies. I aim to showcase my enthusiasm, dedication, and contributions to the vibrant open source community.<br><br>
 
 
 ## 🌐 Socials:
