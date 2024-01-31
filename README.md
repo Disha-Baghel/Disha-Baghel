@@ -18,7 +18,7 @@ I am a student pursuing B.Tech in Computer Science and Engineering, eager to exp
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-Disha-Baghel)
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=Disha-Baghel&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
